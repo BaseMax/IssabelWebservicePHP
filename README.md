@@ -19,7 +19,7 @@ $ php api.php
 
 ### Story of this repository
 
-> I traveled to Tehran for the first time alone and visited an **IT company** there.
+> I traveled to Tehran alone for the first time and visited an **IT company** there.
 >
 > It was my first visit to that company, They said to me they have a problem with their **telephones** at their office.
 >
