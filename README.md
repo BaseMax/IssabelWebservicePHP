@@ -13,7 +13,7 @@ $ php index.php
 $ php api.php
 ```
 
-![Issabel Web-service PHP](demo-json)
+![Issabel Web-service PHP](demo-json.png)
 
 ![Issabel Web-service PHP](demo-data.png)
 
