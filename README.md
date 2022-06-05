@@ -4,6 +4,17 @@
 
 Provide call history reports from **Isabel** for a Call center powered by **PHP** with a **JSON web-service** interface
 
+**This Restful can show all in-come and out-come calls with details about duration, sender and receiver number, etc.**
+
+## Using
+
+```sh
+$ php index.php
+$ php api.php
+```
+
+### Story of this repository
+
 > I traveled to Tehran for the first time alone and visited an **IT company** there.
 >
 > It was my first visit to that company, They said to me they have a problem with their **telephones** at their office.
@@ -16,9 +27,4 @@ Provide call history reports from **Isabel** for a Call center powered by **PHP*
 >
 > P.S: The better solution is to get data directly from Isabel's database, not a hack and dependency on cookie/session.
 
-## Using
-
-```sh
-$ php index.php
-$ php api.php
-```
+© Copyright by Max Base, 2022
