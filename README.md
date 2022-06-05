@@ -21,7 +21,7 @@ $ php api.php
 
 > I traveled to Tehran alone for the first time and visited an **IT company** there.
 >
-> It was my first visit to that company, They said to me they have a problem with their **telephones** at their office.
+> It was the first time I came to that company, They said to me they have a problem with their **telephones** at their office.
 >
 > They want a program to report all telephone **call history** and save it in **JSON** as a web service.
 >
